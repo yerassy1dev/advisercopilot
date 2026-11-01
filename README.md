@@ -1,4 +1,4 @@
-# PortfolioPal
+# AdviserCopilot
 
 **A Telegram bot demo of an AI co-pilot for wealth advisers.**
 It profiles a client's risk level, builds an optimised portfolio from real market data, stress-tests it, flags when it needs rebalancing, and explains the results in plain language with Gemini AI.
