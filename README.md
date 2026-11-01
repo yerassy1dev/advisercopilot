@@ -69,14 +69,6 @@ Python, aiogram 3, SQLite, yfinance, PyPortfolioOpt, pandas, Google Gemini API (
    ```
 7. Open your bot in Telegram and send `/start`. Run `/profile` first, because the other commands need a saved profile.
 
-## Screenshots
-
-<!-- Add your screenshots to a /screenshots folder and update the file names -->
-
-| Risk profile | Portfolio | Scenario | Rebalance |
-|---|---|---|---|
-| ![profile](screenshots/profile.png) | ![portfolio](screenshots/portfolio.png) | ![scenario](screenshots/scenario.png) | ![rebalance](screenshots/rebalance.png) |
-
 ## Reliability notes
 
 - Market data is downloaded one ticker at a time with retries and validation, to avoid yfinance cache lock errors.
