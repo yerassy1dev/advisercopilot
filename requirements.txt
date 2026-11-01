@@ -1,0 +1,6 @@
+aiogram>=3.4
+yfinance
+PyPortfolioOpt
+pandas
+google-genai
+python-dotenv
